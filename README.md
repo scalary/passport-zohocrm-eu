@@ -15,7 +15,7 @@ This module uses Zoho EU datacenter.
 ## Install
 
 ```bash
-$ npm install passport-zoho-crm
+$ npm install passport-zohocrm-eu
 ```
 
 ## Usage
